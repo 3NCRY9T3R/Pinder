@@ -1,1 +1,6 @@
 Version 1: User can swipe through different profiles and like them
+
+Version 2: User can upload his photos
+            User can add his/her bio
+            
+           
